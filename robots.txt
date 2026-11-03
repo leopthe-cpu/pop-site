@@ -1,0 +1,5 @@
+# popmart.studio: every page may be crawled. /restricted/ asks not to be indexed (meta robots noindex).
+User-agent: *
+Allow: /
+
+Sitemap: https://popmart.studio/sitemap.xml
